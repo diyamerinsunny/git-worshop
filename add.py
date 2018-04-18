@@ -15,3 +15,9 @@ def add4(n1, n2,n3,n4):
 			return s
 
 print sub(5,4,8,6)
+
+def add5(n1, n2,n3,n4,n5):
+			s = n1 + n2+n3+n4+n5
+			return s
+
+print sub(5,4,8,6,10)
